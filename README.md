@@ -5,9 +5,9 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning and AI.**
+- 🌱 I’m currently learning about **Machine Learning and AI.**
 
-- 💬 Ask me about **html,css and javascript.**
+- 💬 Ask me about **html,css,javascript,python.**
 
 - 📫 How to reach me **arhaan18june@gmail.com**
 

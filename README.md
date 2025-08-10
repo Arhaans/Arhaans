@@ -1,23 +1,68 @@
 <h1 align="center">Hi 👋, I'm Arhaan Shaikh</h1>
-<h3 align="center">A passionate full stack developer from London, United Kingdom</h3>
+<h3 align="center">Full Stack & AI Developer from London, UK</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arhaans&label=Profile%20views&color=0e75b6&style=flat" alt="arhaans" /> </p>
-
-
-
-- 🌱 I’m currently learning about **Machine Learning and AI.**
-
-- 💬 Ask me about **html,css,javascript,python.**
-
-- 📫 How to reach me **arhaan18june@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/arhaanshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arhaanshaikh" height="30" width="40" /></a>
-<a href="https://instagram.com/arhaan18june" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arhaan18june" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=arhaans&label=Profile%20views&color=0e75b6&style=flat" alt="arhaans" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🌱 Currently learning: **Advanced Machine Learning & AI frameworks**  
+- 💬 Ask me about: **Full Stack Development, AI, Web3, and Cloud Solutions**  
+- 📫 Reach me at: **arhaan18june@gmail.com**  
+- 🔗 Portfolio & projects: [GitHub](https://github.com/Arhaans)  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arhaans&show_icons=true&locale=en&layout=compact" alt="arhaans" /></p>
+---
+
+## 🏆 Achievements
+- **1st Place** – *Encode Solana AI Hackathon*: Built **MedicryptAI**, a decentralized healthcare platform with AI-based clinical support, consent-driven access, and secure storage on Shadow Drive.  
+- **Top Team** – *UCL Holistic AI Hackathon*: Developed a bias-mitigating ML model to detect and reduce racial bias in text.  
+- **1st Place** – *UWL SEGA Hackathon*: Created an AI-Blockchain 2D retro run-and-gun game with smart contract mechanics.  
+
+---
+
+## 💼 Experience
+**AI Researcher Intern** – Google DeepMind (June 2025 – Present)  
+- Built NLP models (PubMedBERT, BART) to analyze radiology reports for early detection of neurodegenerative diseases.  
+- Applied SHAP to explain predictions, improving clinical trust in AI results.  
+
+**AI Engineer** – Cogniwide (Oct 2024 – May 2025)  
+- Developed RAG applications reducing data retrieval latency by 40%.  
+- Created multi-agent chatbot systems improving query resolution by 35%.  
+
+**Software Developer** – Jedi Coders (Sept 2023 – June 2025)  
+- Designed secure REST APIs for authentication with zero breaches.  
+- Built a VS Code-like PyQt text editor for virtual robotics platforms.  
+
+---
+
+## 🚀 Projects
+- **Medicrypt AI** – Decentralized healthcare platform on Solana blockchain with AI medical record summarization.  
+- **Planify AI** – Urban planning assistant using RAG for community feedback analysis and AI-driven insights.  
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python, Java, Haskell, C, ARM Assembly, JavaScript, PHP  
+**Frameworks:** React, Node.js, FastAPI, Flask, PyTorch, TensorFlow, Keras  
+**Databases:** MySQL, MongoDB, Firebase, PostgreSQL, Oracle  
+**AI Tools:** LangChain, LangGraph, CrewAI, HuggingFace, OpenCV  
+**DevOps & Cloud:** Docker, GitHub Actions, AWS, Azure, Linux  
+**Other:** Web3, MuJoCo, LLMs  
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/arhaanshaikh" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="https://instagram.com/arhaan18june" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arhaans&show_icons=true&locale=en&layout=compact" alt="arhaans" />
+</p>
+

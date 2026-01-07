@@ -94,7 +94,7 @@
 
 ## 🎓 Education & Certifications
 
-* 🎓 **BSc (Hons) Computer Science** – University of West London
+* 🎓 **BSc (Hons) Computer Science** – University of West London(Grade - First Class Hons)
 * 🏅 Holistic AI – Certificate of Appreciation
 * 🎨 Meta – Principles of UX/UI Design
 * 🧱 Udemy – Full Stack Development
